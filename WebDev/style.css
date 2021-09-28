@@ -1,0 +1,15 @@
+div{
+    width: 500px;
+    height: 500px;
+    border: 1px solid rgb(45, 16, 214);
+    margin: 0 auto;
+    padding: 130px;
+    box-sizing: border-box;
+}
+body {
+    background: #222;
+    margin-top: 20px;
+    font-family: arial;
+    color: white;
+}
+
