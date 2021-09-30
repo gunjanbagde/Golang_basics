@@ -37,8 +37,7 @@ func checkfiles(root string) {
 	}
 	for _, file := range files {
 		fmt.Println(file)
-		records := readCsvFile(file)
-		fmt.Println(records)
+		fmt.Println(readCsvFile(file))
 	}
 }
 
